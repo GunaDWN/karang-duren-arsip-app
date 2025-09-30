@@ -168,11 +168,3 @@ Berikut adalah beberapa screenshot dari aplikasi Karang Duren Arsip:
 - **PDF Viewer**: Built-in browser PDF viewer
 - **Image Preview**: Built-in browser image viewer
 
-## Kontribusi
-
-Kontribusi sangat diterima! Silakan ikuti langkah berikut:
-1. Fork repository
-2. Buat branch fitur (`git checkout -b feature/NamaFitur`)
-3. Commit perubahan (`git commit -m 'Add some NameFeature'`)
-4. Push ke branch (`git push origin feature/NamaFitur`)
-5. Buat pull request
